@@ -1,0 +1,5 @@
+c:\users\henrique cogo\documents\visual studio 2015\Projects\EFDI\app\EFDI.IOC\bin\Debug\EFDI.IOC.dll
+c:\users\henrique cogo\documents\visual studio 2015\Projects\EFDI\app\EFDI.IOC\bin\Debug\EFDI.IOC.pdb
+c:\users\henrique cogo\documents\visual studio 2015\Projects\EFDI\app\EFDI.IOC\obj\Debug\EFDI.IOC.dll
+c:\users\henrique cogo\documents\visual studio 2015\Projects\EFDI\app\EFDI.IOC\obj\Debug\EFDI.IOC.pdb
+C:\Users\Henrique Cogo\documents\visual studio 2015\Projects\EFDI\app\EFDI.IOC\obj\Debug\EFDI.IOC.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\henrique cogo\documents\visual studio 2015\Projects\EFDI\app\EFDI.DOM\bin\Debug\EFDI.DOM.dll
+c:\users\henrique cogo\documents\visual studio 2015\Projects\EFDI\app\EFDI.DOM\bin\Debug\EFDI.DOM.pdb
+c:\users\henrique cogo\documents\visual studio 2015\Projects\EFDI\app\EFDI.DOM\obj\Debug\EFDI.DOM.dll
+c:\users\henrique cogo\documents\visual studio 2015\Projects\EFDI\app\EFDI.DOM\obj\Debug\EFDI.DOM.pdb
